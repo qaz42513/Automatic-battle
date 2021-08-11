@@ -19,3 +19,4 @@ https://cloud.uipath.com/persowwmektk/portal_/home
 <註.>
 1. RPA是腳本程式, 程式執行時避免使用電腦, 以免執行錯誤
 2. 由於使用程式被鎖帳一律不負責
+3. 牌組通通只能是怪獸卡
