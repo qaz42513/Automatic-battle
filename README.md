@@ -1,6 +1,10 @@
 # Automatic-battle
 Automatic battle for card game by RPA process
 
+環境需求
+1. 使用windows
+2. 使用steam安裝duel-link
+
 RPA安裝環境&註冊
 1. 於windows底下安裝RPA robot
 https://cloud.uipath.com/persowwmektk/portal_/home
