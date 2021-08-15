@@ -7,7 +7,7 @@ Automatic battle for card game by RPA process
 
 RPA安裝環境&註冊
 1. 於windows底下安裝RPA robot
-https://cloud.uipath.com/persowwmektk/portal_/home
+https://www.uipath.com/product/studio
 2. 註冊RPA帳戶
 
 程式使用方式
